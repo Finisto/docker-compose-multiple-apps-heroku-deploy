@@ -1,4 +1,4 @@
-name: 'Deploy Multiple Docker Images to Heroku Apps'
+name: 'Deploy Multiple Docker Images to Heroku Apps (using docker CLI)'
 author: 'Nithyanantham Subramaniam'
 description: 'A simple action to build multiple docker images using docker-compose, push and deploy your applications to Heroku Apps.'
 inputs:
